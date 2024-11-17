@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|c:\\users\\aless\\source\\repos\\salad private - copia (2)(1)\\salad private - copia (2) - copia\\saalad\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\artificialintelligence.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\artificialintelligence.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\artificialintelligence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\artificialintelligence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\artificialintelligence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\artificialintelligence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scripting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scripting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scripting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scripting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scripting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scripting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scriptsuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scriptsuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scriptsuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scriptsuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\saalad\\scripthub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080BE818-CF8D-4AD6-B6CA-B516AC862971}|Saalad\\Saalad.csproj|solutionrelative:saalad\\scripthub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Form1.cs",
+              "RelativeDocumentMoniker": "Saalad\\Form1.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Form1.cs",
+              "RelativeToolTip": "Saalad\\Form1.cs",
+              "ViewState": "AgIAAHsCAAAAAAAAAAAqwMYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:58:36.701Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Scripting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Scripting.cs",
+              "RelativeDocumentMoniker": "Saalad\\Scripting.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Scripting.cs [Design]*",
+              "RelativeToolTip": "Saalad\\Scripting.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:00:56.28Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScriptsUC.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptsUC.cs",
+              "RelativeDocumentMoniker": "Saalad\\ScriptsUC.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptsUC.cs",
+              "RelativeToolTip": "Saalad\\ScriptsUC.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:11:04.126Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Settings.cs",
+              "RelativeDocumentMoniker": "Saalad\\Settings.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Settings.cs",
+              "RelativeToolTip": "Saalad\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:47:48.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScriptsUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptsUC.cs",
+              "RelativeDocumentMoniker": "Saalad\\ScriptsUC.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptsUC.cs [Design]",
+              "RelativeToolTip": "Saalad\\ScriptsUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:06:59.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Scripting.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Scripting.cs",
+              "RelativeDocumentMoniker": "Saalad\\Scripting.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Scripting.cs*",
+              "RelativeToolTip": "Saalad\\Scripting.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:05:52.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Form1.cs",
+              "RelativeDocumentMoniker": "Saalad\\Form1.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Form1.cs [Design]",
+              "RelativeToolTip": "Saalad\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:57:26.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Misc.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Misc.cs",
+              "RelativeDocumentMoniker": "Saalad\\Misc.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Misc.cs",
+              "RelativeToolTip": "Saalad\\Misc.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:26:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtificialIntelligence.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ArtificialIntelligence.cs",
+              "RelativeDocumentMoniker": "Saalad\\ArtificialIntelligence.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ArtificialIntelligence.cs",
+              "RelativeToolTip": "Saalad\\ArtificialIntelligence.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:21:31.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Saalad\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Form1.Designer.cs",
+              "RelativeToolTip": "Saalad\\Form1.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:58:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Saalad\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Settings.Designer.cs",
+              "RelativeToolTip": "Saalad\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:19:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Scripting.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Scripting.Designer.cs",
+              "RelativeDocumentMoniker": "Saalad\\Scripting.Designer.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Scripting.Designer.cs",
+              "RelativeToolTip": "Saalad\\Scripting.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:08:59.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Credits.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Credits.cs",
+              "RelativeDocumentMoniker": "Saalad\\Credits.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Credits.cs [Design]",
+              "RelativeToolTip": "Saalad\\Credits.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:19:34.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Misc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Misc.cs",
+              "RelativeDocumentMoniker": "Saalad\\Misc.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Misc.cs [Design]",
+              "RelativeToolTip": "Saalad\\Misc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:24:32.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Settings.cs",
+              "RelativeDocumentMoniker": "Saalad\\Settings.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Settings.cs [Design]",
+              "RelativeToolTip": "Saalad\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:04:09.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtificialIntelligence.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ArtificialIntelligence.cs",
+              "RelativeDocumentMoniker": "Saalad\\ArtificialIntelligence.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ArtificialIntelligence.cs [Design]",
+              "RelativeToolTip": "Saalad\\ArtificialIntelligence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:11:21.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScriptHUb.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptHUb.cs",
+              "RelativeDocumentMoniker": "Saalad\\ScriptHUb.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptHUb.cs [Design]",
+              "RelativeToolTip": "Saalad\\ScriptHUb.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:00:32.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScriptHUb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptHUb.Designer.cs",
+              "RelativeDocumentMoniker": "Saalad\\ScriptHUb.Designer.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptHUb.Designer.cs",
+              "RelativeToolTip": "Saalad\\ScriptHUb.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:31:59.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScriptHUb.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptHUb.cs",
+              "RelativeDocumentMoniker": "Saalad\\ScriptHUb.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ScriptHUb.cs",
+              "RelativeToolTip": "Saalad\\ScriptHUb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:10:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtificialIntelligence.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ArtificialIntelligence.Designer.cs",
+              "RelativeDocumentMoniker": "Saalad\\ArtificialIntelligence.Designer.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\ArtificialIntelligence.Designer.cs",
+              "RelativeToolTip": "Saalad\\ArtificialIntelligence.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:35:21.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Credits.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Credits.cs",
+              "RelativeDocumentMoniker": "Saalad\\Credits.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\Salad PRIVATE - Copia (2)(1)\\Salad PRIVATE - Copia (2) - Copia\\Saalad\\Credits.cs",
+              "RelativeToolTip": "Saalad\\Credits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:00:43.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

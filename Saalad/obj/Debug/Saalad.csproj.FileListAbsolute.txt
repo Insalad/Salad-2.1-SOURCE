@@ -1,0 +1,258 @@
+C:\Users\aless\source\repos\Saalad\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Saalad\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Saalad\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Saalad\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Saalad\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\source\repos\Saalad - Copia\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad - Copia - Copia\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Buffers.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Memory.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Text.Json.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Saalad - Copia - Copia - Copia\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Buffers.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Memory.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Text.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.ScriptsUC.resources
+C:\Users\aless\source\repos\Salad PRIVATE\Saalad\obj\Debug\Saalad.ArtificialIntelligence.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Buffers.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Memory.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Text.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.ArtificialIntelligence.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.ScriptsUC.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE - Copia\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Buffers.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Memory.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Text.Json.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.ArtificialIntelligence.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.ScriptsUC.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\Downloads\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.ArtificialIntelligence.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.ScriptsUC.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Buffers.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Memory.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Text.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2)\Saalad\obj\Debug\Saalad.Logincs.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Saalad.exe.config
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Saalad.pdb
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Buffers.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Memory.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Text.Json.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\bin\Debug\System.ValueTuple.xml
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.ArtificialIntelligence.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.Credits.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.Form1.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.Misc.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.Properties.Resources.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.ScriptHub.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.Scripting.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.ScriptsUC.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.Settings.resources
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.csproj.GenerateResource.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.csproj.Fody.CopyLocal.cache
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.csproj.Up2Date
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.exe
+C:\Users\aless\source\repos\Salad PRIVATE - Copia (2)(1)\Salad PRIVATE - Copia (2) - Copia\Saalad\obj\Debug\Saalad.pdb

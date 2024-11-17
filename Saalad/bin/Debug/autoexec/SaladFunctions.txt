@@ -1,0 +1,2 @@
+-- don't delete this file if you want salad custom functions.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Insalad/ApiShit/refs/heads/main/Funcs"))()
